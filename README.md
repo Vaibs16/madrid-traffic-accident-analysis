@@ -4,7 +4,7 @@ Severity Prediction · Alcohol Detection · Black Spot Mapping
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![XGBoost](https://img.shields.io/badge/ML-XGBoost-orange)
 ![SHAP](https://img.shields.io/badge/Explainability-SHAP-green)
-![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF)
+[![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF)](https://www.kaggle.com/datasets/linovives/accidentalidad-madrid-2025)
 
 ## Overview
 Data Science project analyzing 41,000+ traffic accidents recorded by the Madrid City Council in 2025.
