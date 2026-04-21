@@ -26,6 +26,7 @@ The goal: show that data can shift emergency response from reactive to preventiv
 - Decision threshold optimization via precision-recall curve
 - Model explainability with SHAP values
 - Interactive map with Folium (OpenStreetMap)
+> Note: the interactive Folium map is not rendered on GitHub. Run the notebook locally to explore it.
 
 ## Main Finding
 Individual variables (hour, location, alcohol) show near-zero correlation with accident severity.
