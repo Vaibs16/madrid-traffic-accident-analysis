@@ -10,7 +10,7 @@ Severity Prediction · Alcohol Detection · Black Spot Mapping
 Data Science project analyzing 41,000+ traffic accidents recorded by the Madrid City Council in 2025.
 The goal: show that data can shift emergency response from reactive to preventive.
 
-> The notebook is written in Spanish (university project).
+> The notebook is written in Spanish.
 
 ## Three Problems, Three Approaches
 
